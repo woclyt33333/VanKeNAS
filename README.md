@@ -7,3 +7,8 @@ https://raw.githubusercontent.com/woclyt33333/VanKeNAS/refs/heads/main/ACL4SSR_O
 删除🎥 奈飞节点
 
 ruleset=🛩️ ‍墙内,[]GEOIP,CN后添加no-resolve
+
+
+#CL4SSR_Online_Full_AdblockPlus
+
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_AdblockPlus.ini
