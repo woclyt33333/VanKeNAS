@@ -24,6 +24,8 @@ https://raw.githubusercontent.com/woclyt33333/VanKeNAS/refs/heads/main/ACL4SSR_O
 
 删除🎥 奈飞节点
 
+删除🔯 故障转移
+
 修改🔮 负载均衡，只负责香港节点
 
 ruleset=🎯 全球直连,[]GEOIP,CN后添加no-resolve
